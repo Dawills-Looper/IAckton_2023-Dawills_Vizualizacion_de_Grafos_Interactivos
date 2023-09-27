@@ -1,9 +1,5 @@
 # IAckton2023
 
-¡Por supuesto! Aquí tienes información para agregar en el README de tu proyecto para describir lo que has hecho en tu código:
-
----
-
 # Red de Relaciones 2023
 
 Este proyecto se centra en visualizar y analizar las relaciones de licitaciones y premios (awards) en el año 2023 en el ámbito de obras artísticas, científicas o literarias. La visualización se realiza mediante un grafo interactivo que muestra las entidades compradoras y proveedoras, así como las conexiones entre ellas. Este README proporciona una descripción general de cómo funciona el proyecto y cómo utilizarlo.
